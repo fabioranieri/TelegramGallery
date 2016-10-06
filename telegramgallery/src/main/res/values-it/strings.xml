@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PickerPhotos">Foto</string>
+    <string name="PickerVideo">Video</string>
+    <string name="AllPhotos">Tutte le foto</string>
+    <string name="AllVideo">Tutti i Video</string>
+    <string name="NoPhotos">Nessuna foto selezionata</string>
+    <string name="NoVideo">Nessun video selezionato</string>
+    <string name="SearchImages">Cerca immagini</string>
+    <string name="SearchGifs">Cerca gif</string>
+    <string name="NoRecentPhotos">Nessuna foto recente</string>
+    <string name="NoRecentGIFs">Nessuna gif recente</string>
+    <string name="NoResult">Nessun risultato</string>
+    <string name="Crop">CROP</string>
+    <string name="AttachPhoto">Photo</string>
+    <string name="Of">%1$d of %2$d</string>
+    <string name="Set">Seleziona</string>
+    <string name="Album">Album</string>
+
+    <string name="ClearSearch">Pulisci i file recenti?</string>
+    <string name="ClearButton">Pulisci</string>
+
+    <string name="SearchImagesTitle">Cerca nel web</string>
+    <string name="SearchGifsTitle">Ricerca GIF</string>
+
+    <string name="SearchImagesInfo">Ricerca web</string>
+	<string name="MostSelect">Possono essere selezionate un massimo di %d foto</string>
+
+    <string name="Send">Chiudi</string>
+    <string name="Cancel">Annulla</string>
+    <string name="Preview">Preview</string>
+    <string name="album_read_fail">Impossibile caricare l\'album attuale \nper favore controllare le permission</string>
+</resources>

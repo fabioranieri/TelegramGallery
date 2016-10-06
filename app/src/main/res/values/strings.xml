@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TelegramGallery</string>
+    <string name="multiple">Album a scelta multipla</string>
+    <string name="single">Album a scelta multipla</string>
 </resources>
