@@ -26,7 +26,7 @@
     <string name="SearchImagesInfo">Ricerca web</string>
 	<string name="MostSelect">Possono essere selezionate un massimo di %d foto</string>
 
-    <string name="Send">Chiudi</string>
+    <string name="Send">Seleziona</string>
     <string name="Cancel">Annulla</string>
     <string name="Preview">Preview</string>
     <string name="album_read_fail">Impossibile caricare l\'album attuale \nper favore controllare le permission</string>
